@@ -58,6 +58,10 @@ body {
   text-align: center;
 }
 
+.div-inline {
+  display: inline;
+}
+
 /* 适配小屏 */
 @media (max-width: 768px) {
   .main_content {

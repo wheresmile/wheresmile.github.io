@@ -11,7 +11,7 @@
 
 ### 前端项目 — wheresmile.github.io
 
-* 纯文本编码，拒绝了框架。
+* 纯静态文件。
 
 ### 前端项目 — facade
 
