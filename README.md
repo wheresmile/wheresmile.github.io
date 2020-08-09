@@ -23,3 +23,8 @@
 
 * [fapollo](https://github.com/wheresmile/fapollo) 源码库
 * python/flask 技术栈
+
+## 部署实例
+
+* [wheresmile.com](https://wheresmile.com) 本项目
+* [w.jianzhoubian.com](http://w.jianzhoubian.com) 前端项目为 facade，后端项目为 fapollo。
